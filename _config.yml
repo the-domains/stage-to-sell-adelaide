@@ -1,4 +1,3 @@
-layout_spectrum: 0.14440009114332497
 typography_spectrum: 0.6376567259430885
 color:
   brandStrength: 0.8608658325392753
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.14440009114332497
 name: stage to sell Adelaide
 title: STAGE  TO SELL
+description: adelaide
